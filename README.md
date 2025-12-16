@@ -11,6 +11,9 @@ This project was developed as a **group project at SLIIT** for the *Information 
 
 ## 🚀 Key Features
 
+
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20030511.png)
+
 ### 🌐 Multi-Source Data Aggregation
 - Scrapes hourly air quality data from **Open-Meteo, OpenAQ, IQAir, and WAQI**
 - Applies **weighted aggregation with outlier trimming** to ensure reliable data
@@ -72,6 +75,17 @@ This architecture enables scalability, security, and clear separation of concern
 - **Explainability:** Interpretable SARIMAX models + execution traces  
 - **Transparency:** Visible data sources, KPIs, and agent steps  
 - **Privacy:** No personal location tracking; secure credential handling  
+
+
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025126.png)
+
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025447.png)
+
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025247.png)
+
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025302.png)
+
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025015.png)
 
 ---
 
