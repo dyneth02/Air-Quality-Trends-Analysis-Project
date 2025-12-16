@@ -79,13 +79,17 @@ This architecture enables scalability, security, and clear separation of concern
 
 ![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025126.png)
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025447.png)
+![AirSense Forecasting Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025447.png)
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025247.png)
+![AirSense City Analysis Page 1](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025247.png)
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025302.png)
+![AirSense City Analysis Page 2](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025302.png)
 
-![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025015.png)
+![AirSense Forecasting Report Page 1](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025501.png)
+
+![AirSense Forecasting Report Page 2](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025522.png)
+
+![AirSense Forecasting Report Page 3](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025532.png)
 
 ---
 
