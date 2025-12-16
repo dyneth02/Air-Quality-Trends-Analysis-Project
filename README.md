@@ -5,6 +5,8 @@ The system aggregates multi-source PM2.5 and PM10 data, performs comparative ana
 
 This project was developed as a **group project at SLIIT** for the *Information Retrieval and Web Analytics (IT3041)* module.
 
+![AirSense Landing Page](https://github.com/dyneth02/Air-Quality-Trends-Analysis-Project/blob/main/screenshots/Screenshot%202025-12-17%20025015.png)
+
 ---
 
 ## 🚀 Key Features
